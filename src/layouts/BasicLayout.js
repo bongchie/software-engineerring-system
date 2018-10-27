@@ -56,15 +56,15 @@ const memoizeOneFormatter = memoizeOne(formatter, isEqual);
 
 const query = {
   'screen-xs': {
-    maxWidth: 575,
+    maxWidth: 585,
   },
   'screen-sm': {
     minWidth: 576,
-    maxWidth: 767,
+    maxWidth: 777,
   },
   'screen-md': {
     minWidth: 768,
-    maxWidth: 991,
+    maxWidth: 999,
   },
   'screen-lg': {
     minWidth: 992,
