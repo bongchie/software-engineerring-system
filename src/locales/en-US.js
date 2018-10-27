@@ -1,5 +1,6 @@
 export default {
   'navBar.lang': 'Languages',
+  'navBar.lang': 'Inventory',
   'layout.user.link.help': 'Help',
   'layout.user.link.privacy': 'Privacy',
   'layout.user.link.terms': 'Terms',
